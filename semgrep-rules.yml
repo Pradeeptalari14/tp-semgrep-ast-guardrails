@@ -1,0 +1,12 @@
+rules:
+  - id: detect-tainted-sql-injection
+    languages: [python, javascript, go]
+    severity: ERROR
+    message: "Untrusted user input directly concatenated into SQL query"
+    mode: taint
+    pattern-sources:
+      - pattern: request.args.get(...)
+      - pattern: req.query[...]
+    pattern-sinks:
+      - pattern: db.execute(...)
+      - pattern: cursor.execute(...)
