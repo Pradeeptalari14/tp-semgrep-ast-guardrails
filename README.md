@@ -1,3 +1,6 @@
+[![Ecosystem](https://img.shields.io/badge/Portfolio%20Ecosystem-341%20Studios-6366f1.svg)](https://pradeeptalari.me/projects/)
+[![Architecture DAG](https://img.shields.io/badge/Architecture-DAG%20%26%20Course-10b981.svg)](https://pradeeptalari.me/tools/repo-learning/)
+
 # Semgrep AST Policy Guardrails Studio
 
 [![CI Validation](https://github.com/Pradeeptalari14/tp-semgrep-ast-guardrails/actions/workflows/ci.yml/badge.svg)](https://github.com/Pradeeptalari14/tp-semgrep-ast-guardrails/actions)
@@ -115,3 +118,6 @@ data:
 ## 7. License
 
 Licensed under the [MIT License](LICENSE). Copyright (c) 2026 Talari Pradeep.
+
+---
+*Synchronized with [Semgrep AST Policy Guardrails Studio Studio](https://pradeeptalari.me/tools/semgrep-ast-guardrails/) & [Repository Learning DAG](https://pradeeptalari.me/tools/repo-learning/) — [Talari Pradeep Portfolio](https://pradeeptalari.me)*
